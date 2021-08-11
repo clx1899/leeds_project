@@ -1,1 +1,1 @@
-These are the prediction results of models with different parameters in the experiment.
+These are the prediction results of models with different hyperparameters in the experiment.
